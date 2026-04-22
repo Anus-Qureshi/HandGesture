@@ -1,0 +1,6 @@
+flask
+gunicorn
+tensorflow
+numpy
+opencv-python-headless
+mediapipe
